@@ -17,7 +17,7 @@
                             I love sharing my knowledge to others, that's why I created a
                             <a
                                 class="text-primary font-bold no-underline hover:underline underline-offset-2 decoration-2 decoration-primary"
-                                href="" target="_blank">YouTube Channel</a>. <br>
+                                href="" target="_blank">GitHub</a>. <br>
                         </p>
                         <ul class="flex flex-wrap items-center">
                             <li>
