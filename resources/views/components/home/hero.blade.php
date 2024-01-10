@@ -21,18 +21,18 @@
                         </p>
                         <ul class="flex flex-wrap items-center">
                             <li>
-                                <x-button-link href="#portfolio" variant="primary" class="rounded-lg">
+                                <x-button-link href="https://github.com/sejesila" variant="primary" class="rounded-lg">
                                     My Projects
                                 </x-button-link>
                             </li>
                         </ul>
-                        <div class="clients pt-16">
-                            <h6 class="font-normal text-xs flex items-center text-body-color dark:text-gray-300 mb-4">
-                                Follow me on social media
-                                <span class="w-8 h-[1px] bg-body-color inline-block ml-2"></span>
-                            </h6>
-                            <x-social-icons></x-social-icons>
-                        </div>
+{{--                        <div class="clients pt-16">--}}
+{{--                            <h6 class="font-normal text-xs flex items-center text-body-color dark:text-gray-300 mb-4">--}}
+{{--                                Follow me on social media--}}
+{{--                                <span class="w-8 h-[1px] bg-body-color inline-block ml-2"></span>--}}
+{{--                            </h6>--}}
+{{--                            <x-social-icons></x-social-icons>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
                 <div class="hidden lg:block lg:w-1/12 px-4"></div>

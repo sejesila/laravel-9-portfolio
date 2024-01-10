@@ -55,7 +55,7 @@
                         <br/>
                         My content is mostly focused on practical examples and projects. <br/>
                     </p>
-                    <x-button-link href="#" variant="red" target="_blank">
+                    <x-button-link href="https://github.com/sejesila" variant="red" target="_blank">
                         View my channel
                     </x-button-link>
                 </div>
